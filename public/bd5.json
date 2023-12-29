@@ -9,8 +9,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "1/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_2.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -20,8 +20,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "2/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_3.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -31,8 +31,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "3/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_4.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -42,8 +42,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "4/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_5.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -53,8 +53,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "5/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_6.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -64,8 +64,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "6/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_7.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -75,8 +75,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "7/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_8.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -86,8 +86,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "8/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_9.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -97,8 +97,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "9/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_10.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -108,8 +108,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "10/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_11.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -119,8 +119,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "11/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_12.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -130,8 +130,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "12/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_13.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -141,8 +141,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "13/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_14.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -152,8 +152,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "14/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_15.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -163,8 +163,8 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "15/16",
     "Año": "2012"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274377_16.flac",
     "descripcion": "198274377",
     "imagen": "Albums/198274377.jpg",
@@ -174,1031 +174,657 @@
     "album": "Strangeland (Deluxe Version)",
     "numero_de_pista": "16/16",
     "Año": "2012"
-  },
-  {
-    "archivo_musica": "Albums/198274375_1.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Hard Rock & Metal",
-    "titulo": "Eye of the Tiger",
-    "artista": "Survivor",
-    "album": "The Rocky Story",
-    "numero_de_pista": "1/9",
-    "Año": "1982"
-  },
-  {
-    "archivo_musica": "Albums/198274375_2.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Rock",
-    "titulo": "Burning Heart (From Rocky IV Soundtrack)",
-    "artista": "Survivor",
-    "album": "The Rocky Story",
-    "numero_de_pista": "2/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_3.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "R&B",
-    "titulo": "Living in America (From Rocky IV Soundtrack)",
-    "artista": "James Brown",
-    "album": "The Rocky Story",
-    "numero_de_pista": "3/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_4.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Pop",
-    "titulo": "No Easy Way Out (From Rocky IV Soundtrack)",
-    "artista": "Robert Tepper",
-    "album": "The Rocky Story",
-    "numero_de_pista": "4/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_5.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Pop/Pop Rock",
-    "titulo": "Hearts On Fire (From Rocky IV Soundtrack)",
-    "artista": "John Cafferty",
-    "album": "The Rocky Story",
-    "numero_de_pista": "5/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_6.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "Gonna Fly Now",
-    "artista": "Rocky Orchestra",
-    "album": "The Rocky Story",
-    "numero_de_pista": "6/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_7.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "War",
-    "artista": "Vince DiCola",
-    "album": "The Rocky Story",
-    "numero_de_pista": "7/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_8.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "New Age",
-    "titulo": "Training Montage (From Rocky IV Soundtrack)",
-    "artista": "Vince DiCola",
-    "album": "The Rocky Story",
-    "numero_de_pista": "8/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_9.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "Gonna Fly Now (Instrumental)",
-    "artista": "Rocky Orchestra",
-    "album": "The Rocky Story",
-    "numero_de_pista": "9/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274376_1.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "House Lights",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "1/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_2.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Back In Time",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "2/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_3.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Alternative Rock/General",
-    "titulo": "Stop For A Minute (Album Version)",
-    "artista": "Keane & K'naan",
-    "album": "Night Train",
-    "numero_de_pista": "3/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_4.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Clear Skies",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "4/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_5.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Ishin Denshin (You've Got To Help Yourself) [feat. Tigarah]",
-    "artista": "Keane feat. Tigarah",
-    "album": "Night Train",
-    "numero_de_pista": "5/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_6.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Your Love",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "6/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_7.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Looking Back [feat. K'NAAN]",
-    "artista": "Keane feat. K'naan",
-    "album": "Night Train",
-    "numero_de_pista": "7/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_8.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "My Shadow",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "8/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274379_1.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Spiralling",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "1/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_2.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "The Lovers Are Losing",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "2/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_3.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Better Than This",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "3/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_4.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "You Haven't Told Me Anything",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "4/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_5.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Perfect Symmetry",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "5/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_6.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "You Don't See Me",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "6/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_7.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Again & Again",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "7/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_8.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Playing Along",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "8/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_9.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Pretend That You're Alone",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "9/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_10.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Black Burning Heart",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "10/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_11.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Love Is The End",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "11/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_12.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Spiralling (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "12/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_13.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "The Lovers Are Losing (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "13/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_14.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Better Than This (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "14/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_15.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "You Haven't Told Me Anything (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "15/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_16.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Perfect Symmetry (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "16/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_17.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "You Don't See Me (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "17/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_18.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Again & Again (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "18/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_19.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Playing Along (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "19/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_20.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Pretend That You're Alone (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "20/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_21.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Black Burning Heart (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "21/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274379_22.flac",
-    "descripcion": "198274379",
-    "imagen": "Albums/198274379.jpg",
-    "genero": "Indie Rock",
-    "titulo": "Love Is The End (Demo)",
-    "artista": "Keane",
-    "album": "Perfect Symmetry",
-    "numero_de_pista": "22/22",
-    "Año": "2008"
-  },
-  {
-    "archivo_musica": "Albums/198274375_1.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Hard Rock & Metal",
-    "titulo": "Eye of the Tiger",
-    "artista": "Survivor",
-    "album": "The Rocky Story",
-    "numero_de_pista": "1/9",
-    "Año": "1982"
-  },
-  {
-    "archivo_musica": "Albums/198274375_2.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Rock",
-    "titulo": "Burning Heart (From Rocky IV Soundtrack)",
-    "artista": "Survivor",
-    "album": "The Rocky Story",
-    "numero_de_pista": "2/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_3.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "R&B",
-    "titulo": "Living in America (From Rocky IV Soundtrack)",
-    "artista": "James Brown",
-    "album": "The Rocky Story",
-    "numero_de_pista": "3/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_4.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Pop",
-    "titulo": "No Easy Way Out (From Rocky IV Soundtrack)",
-    "artista": "Robert Tepper",
-    "album": "The Rocky Story",
-    "numero_de_pista": "4/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_5.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Pop/Pop Rock",
-    "titulo": "Hearts On Fire (From Rocky IV Soundtrack)",
-    "artista": "John Cafferty",
-    "album": "The Rocky Story",
-    "numero_de_pista": "5/9",
-    "Año": "1985"
-  },
-  {
-    "archivo_musica": "Albums/198274375_6.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "Gonna Fly Now",
-    "artista": "Rocky Orchestra",
-    "album": "The Rocky Story",
-    "numero_de_pista": "6/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_7.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "War",
-    "artista": "Vince DiCola",
-    "album": "The Rocky Story",
-    "numero_de_pista": "7/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_8.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "New Age",
-    "titulo": "Training Montage (From Rocky IV Soundtrack)",
-    "artista": "Vince DiCola",
-    "album": "The Rocky Story",
-    "numero_de_pista": "8/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274375_9.flac",
-    "descripcion": "198274375",
-    "imagen": "Albums/198274375.jpg",
-    "genero": "Soundtracks",
-    "titulo": "Gonna Fly Now (Instrumental)",
-    "artista": "Rocky Orchestra",
-    "album": "The Rocky Story",
-    "numero_de_pista": "9/9",
-    "Año": "1990"
-  },
-  {
-    "archivo_musica": "Albums/198274376_1.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "House Lights",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "1/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_2.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Back In Time",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "2/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_3.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Alternative Rock/General",
-    "titulo": "Stop For A Minute (Album Version)",
-    "artista": "Keane & K'naan",
-    "album": "Night Train",
-    "numero_de_pista": "3/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_4.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Clear Skies",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "4/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_5.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Ishin Denshin (You've Got To Help Yourself) [feat. Tigarah]",
-    "artista": "Keane feat. Tigarah",
-    "album": "Night Train",
-    "numero_de_pista": "5/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_6.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Your Love",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "6/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_7.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "Looking Back [feat. K'NAAN]",
-    "artista": "Keane feat. K'naan",
-    "album": "Night Train",
-    "numero_de_pista": "7/8",
-    "Año": "2010"
-  },
-  {
-    "archivo_musica": "Albums/198274376_8.flac",
-    "descripcion": "198274376",
-    "imagen": "Albums/198274376.jpg",
-    "genero": "Pop/General",
-    "titulo": "My Shadow",
-    "artista": "Keane",
-    "album": "Night Train",
-    "numero_de_pista": "8/8",
-    "Año": "2010"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_1.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Somewhere Only We Know",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "01/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "1/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_2.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Bend And Break",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "02/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "2/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_3.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "We Might As Well Be  Strangers",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "03/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "3/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_4.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Evrerybody's Changing",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "04/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "4/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_5.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Your Eyes Open",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "05/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "5/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_6.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "She Has No Time",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "06/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "6/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_7.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Can't Stop Now",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "07/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "7/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_8.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Sunshine",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "08/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "8/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_9.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "This Is The Last Time",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
-    "numero_de_pista": "09/37",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
+    "numero_de_pista": "9/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_10.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "On A Day Like Today",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "10/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_11.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Untitled",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "11/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_12.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Bedshaped",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "12/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_13.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Somewhere Only We Know LAMACQ LIVE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "13/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_14.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Bedshaped LAMACQ LIVE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "14/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_15.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Bend And Break LAMACQ LIVE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "15/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_16.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "We Might As Well Be Strangers LAMACQ LIVE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "16/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_17.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "This Is The Last Time JO WHILEY LIVE LOUNGE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "17/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_18.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "With Or Without You JO WHILEY LIVE LOUNGE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "18/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_19.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "A Heart To Hold You JO WHILEY LIVE LOUNGE",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears ( Deluxe Edition ) CD-1",
     "numero_de_pista": "19/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_20.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Snowed Under [B-Side]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "20/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_21.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "We Might As Well Be Strangers (DJ Shadow Remix)",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "21/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_22.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Into The Light (Demo) [Unreleased]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "22/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_23.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Call Me What You Like (Demo) [Zoomorphic Single 1]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "23/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_24.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Closer Now [Zoomorphic Single 1]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "24/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_25.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Rubbernecking [Zoomorphic Single 1]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "25/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_26.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Wolf At The Door [Zoomorphic Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "26/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_27.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "She Has No Time (Demo) [Zoomorphic Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "27/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_28.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Call Me What You Like [Zoomorphic Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "28/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_29.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Everybody's Changing [Fierce Panda Single 1]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "29/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_30.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "The Way You Want It [Fierce Panda Single 1]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "30/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_31.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "This Is The Last Time (Demo) [Fierce Panda Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "31/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_32.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Bedshaped (Demo) [Fierce Panda Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "32/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_33.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Allemande [Fierce Panda Single 2]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "33/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_34.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Somewhere Only We Know (Live) [Live EP - Released 5th May 2005]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "34/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_35.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "We Might As Well Be Strangers (Live) [Live EP - Released 5th May 2005]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "35/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_36.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "This Is The Last Time (Live) [Live EP - Released 5th May 2005]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "36/37",
     "Año": "2009"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274378_37.flac",
     "descripcion": "198274378",
     "imagen": "Albums/198274378.jpg",
     "genero": "Pop",
     "titulo": "Everybody's Changing (Live) [Live EP - Released 5th May 2005]",
     "artista": "Keane",
-    "album": "Hopes And Fears (Deluxe Edition)",
+    "album": "Hopes And Fears (Deluxe Edition CD2)",
     "numero_de_pista": "37/37",
     "Año": "2009"
-  },
-  {
+},
+{
+    "archivo_musica": "Albums/198274379_1.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Spiralling",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "1/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_2.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "The Lovers Are Losing",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "2/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_3.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Better Than This",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "3/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_4.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "You Haven't Told Me Anything",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "4/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_5.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Perfect Symmetry",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "5/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_6.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "You Don't See Me",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "6/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_7.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Again & Again",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "7/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_8.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Playing Along",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "8/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_9.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Pretend That You're Alone",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "9/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_10.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Black Burning Heart",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "10/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_11.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Love Is The End",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "11/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_12.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Spiralling (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "12/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_13.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "The Lovers Are Losing (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "13/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_14.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Better Than This (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "14/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_15.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "You Haven't Told Me Anything (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "15/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_16.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Perfect Symmetry (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "16/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_17.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "You Don't See Me (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "17/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_18.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Again & Again (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "18/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_19.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Playing Along (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "19/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_20.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Pretend That You're Alone (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "20/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_21.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Black Burning Heart (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "21/22",
+    "Año": "2008"
+},
+{
+    "archivo_musica": "Albums/198274379_22.flac",
+    "descripcion": "198274379",
+    "imagen": "Albums/198274379.jpg",
+    "genero": "",
+    "titulo": "Love Is The End (Demo)",
+    "artista": "Keane",
+    "album": "Perfect Symmetry",
+    "numero_de_pista": "22/22",
+    "Año": "2008"
+},
+{
     "archivo_musica": "Albums/198274380_1.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1208,8 +834,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "1/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_2.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1219,8 +845,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "2/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_3.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1230,8 +856,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "3/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_4.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1241,8 +867,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "4/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_5.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1252,8 +878,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "5/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_6.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1263,8 +889,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "6/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_7.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1274,8 +900,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "7/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_8.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1285,8 +911,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "8/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_9.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1296,8 +922,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "9/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_10.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1307,8 +933,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "10/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_11.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1318,8 +944,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "11/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_12.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1329,8 +955,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "12/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_13.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1340,8 +966,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "13/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_14.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1351,8 +977,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "14/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_15.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1362,8 +988,8 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "15/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274380_16.flac",
     "descripcion": "198274380",
     "imagen": "Albums/198274380.jpg",
@@ -1373,38 +999,38 @@
     "album": "Cause And Effect (Deluxe)",
     "numero_de_pista": "16/16",
     "Año": "2019"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274381_1.flac",
     "descripcion": "198274381",
     "imagen": "Albums/198274381.jpg",
     "genero": "Alternative Rock/General",
-    "titulo": "Tear Up This Town (Orchestral Version / From A Monster Calls Original Motion Picture Soundtrack)",
+    "titulo": "Tear Up This Town (Orchestral Version / From (A Monster Calls) Original Motion Picture Soundtrack)",
     "artista": "Keane",
-    "album": "Tear Up This Town (From A Monster Calls Original Motion Picture Soundtrack)",
+    "album": "Tear Up This Town (From (A Monster Calls) Original Motion Picture Soundtrack)",    
     "numero_de_pista": "1/2",
     "Año": "2016"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274381_2.flac",
     "descripcion": "198274381",
     "imagen": "Albums/198274381.jpg",
     "genero": "Alternative Rock/General",
-    "titulo": "Tear Up This Town (From A Monster Calls Original Motion Picture Soundtrack)",
+    "titulo": "Tear Up This Town (From (A Monster Calls) Original Motion Picture Soundtrack)",   
     "artista": "Keane",
-    "album": "Tear Up This Town (From A Monster Calls Original Motion Picture Soundtrack)",
+    "album": "Tear Up This Town (From (A Monster Calls) Original Motion Picture Soundtrack)",    
     "numero_de_pista": "2/2",
     "Año": "2016"
-  },
-  {
+},
+{
     "archivo_musica": "Albums/198274382_1.flac",
     "descripcion": "198274382",
     "imagen": "Albums/198274382.jpg",
-    "genero": "Reggaetón",
+    "genero": "",
     "titulo": "Me Reclama (Remix) [feat. Luigi 21 Plus, Alexio & Pusho]",
     "artista": "Ozuna, Kevin Roldan, Mambo Kingz & DJ Luian",
     "album": "Me Reclama (Remix) [feat. Luigi 21 Plus, Alexio & Pusho]",
     "numero_de_pista": "1/1",
     "Año": "2016"
-  }
+}
 ]
